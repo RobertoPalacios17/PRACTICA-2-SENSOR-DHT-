@@ -37,8 +37,9 @@ void loop() {
 
 Siguiente instlamos la libreria **DHT sensor library for ESPx**
 
-Por ultimo hacemos la conexion de los sensores **DHT11** con la **ESP32**
+Por ultimo hacemos la conexion de los sensores **DHT11** con la **ESP32** como se muestra en la imagen
 ![](https://github.com/RobertoPalacios17/PRACTICA-2-SENSOR-DHT-/blob/main/sensor.png)
 
 ### RESULTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+![](https://github.com/RobertoPalacios17/PRACTICA-2-SENSOR-DHT-/blob/main/SENSOR%202.png)
