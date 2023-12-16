@@ -12,6 +12,7 @@ SENSOR DHT11
 ### INSTRUCCIONES 
 Entrar a la plataforma WOKWI para poder usar el sensor
 Posterior colacamos abrimos el programa y colocamos el codigo de programación 
+
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 
