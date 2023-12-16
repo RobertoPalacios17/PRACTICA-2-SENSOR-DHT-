@@ -34,7 +34,9 @@ void loop() {
   Serial.println("---");
   delay(1000);
 }
+
 Siguiente instlamos la libreria **DHT sensor library for ESPx**
+
 Por ultimo hacemos la conexion de los sensores **DHT11** con la **ESP32**
 
 ### RESULTADOS
